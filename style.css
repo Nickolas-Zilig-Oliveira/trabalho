@@ -62,8 +62,7 @@ p {
 ul, li {
     list-style: none;
 }
-a {
-    display: block;
+a { display: block;
     background-color: var(--grey);
     margin-bottom: 16px;
     color: var(--white);
@@ -73,6 +72,8 @@ a {
     font-size: 14px;
     font-weight: 700;
 }
+
+
 
 a:hover {
     background-color: var(--neon-green);
